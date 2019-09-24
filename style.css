@@ -1,0 +1,278 @@
+body { margin: 0px;
+	   padding: 0px;
+
+}
+
+/*---------------------------------------------ENTETE---------------------------------*/
+
+
+
+h2 { font-size: 15px;
+}
+
+nav ul { 
+	     padding: 0px;
+	     font-size: 10px;
+	     list-style-type: none; 
+}
+
+nav li { width: 100px;
+	     height: 20px;  	      
+ }
+
+ header { height:200px; 
+
+ }
+
+ .background { background-image:url("grid-mesh.jpg");
+               opacity:0.2; 
+               width:100%; 
+               height:240px; 
+               position:relative;   
+               bottom:300px;
+               overflow:hidden;
+ }
+
+ #logo { width: 230px;
+	    margin-left:50px;
+	    border:none;
+	    position:relative;
+	    left:5%;
+	    bottom:30px;
+}
+
+
+ .nav1 { position: absolute;
+ 	     top:40px;
+ 	     right:30%;
+ 	     left:38%;
+ 	     bottom:1200px;	     
+ }
+
+ .nav2 { position: absolute;
+ 	     top:40px;
+ 	     right:30%;
+ 	     left:50%;
+ 	     bottom:1200px;     
+ }
+
+ .nav3 { position: absolute;
+ 	     top:40px;
+ 	     right:20%;
+ 	     left:62%;
+ 	     bottom:1200px;     
+ }
+
+ .nav4 { position: absolute;
+ 	     top:40px;
+ 	     right:10%;
+ 	     left:74%;
+ 	     bottom:1200px;     
+ }
+
+ .nav5 { position: absolute;
+ 	     top:40px;
+ 	     right:5%;
+ 	     left:86%;
+ 	     bottom:1200px; 
+ }
+
+/*--------------------------------------------PHOTOS----------------------------------*/
+ 
+ .table1 { margin-left:100px;
+           margin-top:100px;         
+ }
+ 
+ img {   margin-right:200px;
+ 	     padding:10px;
+ 	     border:solid rgba(0,50,250,0.2) 1px;
+ 	     width:200px;
+ }
+
+ .img1 { position:relative;  
+ 	     left:70px;
+ 	     bottom:70px;  
+ }
+
+ .img2 {position:relative;
+ 	    right:110px;
+ 	    bottom:70px;
+ }
+
+ .img3 { position:relative;
+ 	     right:290px;
+ 	     bottom:70px;
+ }
+
+ .img4 { position:relative;
+ 	     right:470px;
+ 	     bottom:70px;
+ }
+
+ /*-----------------------------------------citation----------------------------------*/
+ 
+ .background2 { background-image:url("grid-mesh.jpg");
+                opacity:0.2;
+ 	            width:100%;
+ 	            height:200px;
+ 	            position:absolute;
+ 	            top:800px;
+ }
+ .h3 { margin-left: 15%;	
+ }
+ .p { margin-left:70%;
+      margin-top:50px;
+      margin-bottom: 50px;
+      display:aline;	
+ }
+
+ /*---------------------------------------------COM----------------------------------*/
+
+
+ .table2 {width: 1200px;
+ 	      height: 300px;
+ 	      margin-left:170px;		           
+ }
+
+ h1 {margin-top:0px;
+ }
+
+.img5{ width:200px; 
+       margin:10px;  
+       margin-top:0px; 
+       margin-bottom: 0px;
+       padding: 0px;
+}
+
+td {width:250px;
+	height:250px;
+	padding:0px;
+}
+
+.h4 { 
+}
+
+iframe { width:700px;
+         height:400px;	
+}
+
+.div1 { margin:70px;
+	    display:inline;
+     
+ }
+
+.h21 { position:relative;
+        left:180px;
+        top:100px;
+}
+.icone1 { width:50px;
+	      position:relative;
+          left:160px;
+          top:80px;
+          border:none;
+}
+.p2 { position:relative;
+	  left:230px;
+      top:20px;
+}
+
+.icone2 { width:30px; 
+	      position: relative;
+	      left:170px;
+	      top:5px;
+	      border:none;
+}
+
+.p3 { position:relative;
+      left:230px;
+      bottom:50px;
+ }
+
+ .icone3 { width:30px;
+           position: relative;
+           left:170px;
+           bottom:70px;
+           border:none;
+ }
+
+ .p4 { position: relative;
+       left:230px;
+       bottom:120px; 
+  }
+
+  .icone4 {width:30px;
+  	       position:relative;
+  	       left:170px;
+  	       bottom:130px;
+  	       border:none;
+  }
+  .p5 { position: relative;
+  	    left:230px;
+  	    bottom:190px;
+  }
+
+  .div2 { position:relative;
+  	      left:480px;
+  	      bottom:410px;
+  }
+  .div3 { position: relative;
+          left:780px;
+          bottom:570px;
+   }
+   .div4 { position: relative;
+   	       left:1080px;
+   	       bottom:800px;
+
+   }
+   .div5 { position:relative;
+           left:180px;
+           bottom:580px;
+   }
+
+ /*---------------------------------------------------CONTACT/INFI-------------------*/
+
+   .background3 { background-image:url("grid-mesh.jpg");
+                  width:100%;
+                  height:300px;
+                  opacity:0.2;
+                  position:absolute;
+                  top:1600px;
+
+   }
+
+   .ico1 { width:30px;
+   	       position: relative;
+           left:940px;
+           bottom:645px;
+           border:none;
+    }
+   .ico2 { width:30px;
+   	       position: relative;
+           left:755px;
+           bottom:645px;
+   	      border:none;
+    }
+   .ico3 { width:30px; 
+   	       position: relative;
+   	       left:570px;
+   	       bottom:645px;
+   	       border:none;
+   }
+   .ico4 { width:30px; 
+   	       position: relative;
+           left:385px;
+           bottom:645px;
+   	      border:none;
+   }
+   .ico5 { width:30px; 
+   	       position: relative;
+   	       left:870px;
+   	       bottom:700px;
+   	       border:none; 
+    }
+   .ico6 { width:30px;
+   	      position: relative;
+   	      left:960px; 
+   	      bottom:700px;
+   	      border:none;
+    }
